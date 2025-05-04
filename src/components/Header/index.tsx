@@ -28,6 +28,7 @@ export function Header() {
             justifyContent="space-between"
             alignItems="center"
             height="8vh"
+            boxShadow="0px 4px 6px -1px rgba(2, 26, 97, 0.3)"
         >
             <Image src={logoUrl} height="7vh" />
 
